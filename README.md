@@ -1,2 +1,2 @@
-# coding-patterns-python
-Coding patterns in python
+# Coding Patterns in Python
+This repo contains coding patterns in Python
